@@ -1,4 +1,4 @@
-name: Main
+name: Update the Quote
 
 on:
   workflow_dispatch:
@@ -31,4 +31,4 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add .
           git commit -m "Update README.md"
-          git push origin || echo "No changes to commit"
+          git push
