@@ -1,3 +1,4 @@
+```{python}
 import requests
 
 def get_random_quote():
@@ -9,3 +10,4 @@ def get_random_quote():
         return "Failed to fetch a quote."
 
 print(get_random_quote())
+```
