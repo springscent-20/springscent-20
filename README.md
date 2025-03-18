@@ -9,6 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## /home/runner/.virtualenvs/r-reticulate/lib/python3.12/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.quotable.io'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
-    ##   warnings.warn(
-    ## And the attitude of faith is the very opposite of clinging to belief, of holding on. - Alan Watts
+    ## The person born with a talent they are meant to use will find their greatest happiness in using it. - Johann Wolfgang von Goethe
