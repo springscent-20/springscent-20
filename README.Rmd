@@ -4,7 +4,7 @@ output:
     variant: gfm
 ---
 
-```{python}
+```{python, warning = FALSE}
 import requests
 
 def get_random_quote():
