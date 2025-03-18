@@ -1,5 +1,3 @@
-# curly-octo-spork
-
 import requests
 
 def get_random_quote():
