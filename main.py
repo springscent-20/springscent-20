@@ -1,0 +1,11 @@
+import requests
+
+def get_random_quote():
+    response = requests.get("https://api.quotable.io/random", verify=False)
+    if response.status_code == 200:
+        data = response.json()
+        return f"{data['content']} - {data['author']}"
+    else:
+        return "Failed to fetch a quote."
+
+print(get_random_quote())
