@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Not all those who wander are lost. - J. R. R. Tolkien
+    ## There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain. - Plato
