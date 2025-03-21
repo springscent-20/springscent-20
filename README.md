@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm. - Dalai Lama
+    ## You can only grow if you're willing to feel awkward and uncomfortable when you try something new. - Brian Tracy
