@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Joy is what happens to us when we allow ourselves to recognize how good things really are. - Marianne Williamson
+    ## No day in which you learn something is a complete loss. - David Eddings
