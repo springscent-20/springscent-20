@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It is the supreme art of the teacher to awaken joy in creative expression and knowledge. - Albert Einstein
+    ## Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity. - Louis Pasteur
