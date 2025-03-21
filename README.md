@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## To improve is to change; to be perfect is to change often. - Winston Churchill
+    ## An invasion of armies can be resisted, but not an idea whose time has come. - Victor Hugo
