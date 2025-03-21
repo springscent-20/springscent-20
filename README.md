@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Nature gave us one tongue and two ears so we could hear twice as much as we speak. - Epictetus
+    ## The most formidable weapon against errors of every kind is reason. - Thomas Paine
