@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The winds and waves are always on the side of the ablest navigators. - Edward Gibbon
+    ## The superior man is modest in his speech but exceeds in his actions. - Confucius
