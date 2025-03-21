@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Most people are about as happy as they make up their minds to be - Abraham Lincoln
+    ## When fate hands us a lemon, let's try to make lemonade. - Dale Carnegie
