@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A failure is a man who has blundered but is not capable of cashing in on the experience. - Elbert Hubbard
+    ## The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly. - Richard Bach
