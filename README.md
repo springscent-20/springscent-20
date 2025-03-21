@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Opportunity is missed by most because it is dressed in overalls and looks like work. - Thomas Edison
+    ## It's easier to resist at the beginning than at the end. - Leonardo da Vinci
