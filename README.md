@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind. - Albert Einstein
+    ## Wisdom is found only in truth. - Johann Wolfgang von Goethe
