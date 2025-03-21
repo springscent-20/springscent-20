@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## An invasion of armies can be resisted, but not an idea whose time has come. - Victor Hugo
+    ## Things do not happen. Things are made to happen. - John F. Kennedy
