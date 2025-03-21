@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Accept challenges, so that you may feel the exhilaration of victory. - George S. Patton
+    ## If you focus on results, you will never change. If you focus on change, you will get results. - Jack Dixon
