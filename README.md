@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Happiness is not something ready-made. It comes from your own actions. - Dalai Lama
+    ## Everything that exists is in a manner the seed of that which will be. - Marcus Aurelius
