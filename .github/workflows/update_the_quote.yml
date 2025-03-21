@@ -3,7 +3,6 @@ name: Update the Quote
 on:
   schedule:
     - cron: "* * * * *"
-  workflow_dispatch:
 
 jobs:
   update-the-quote:
