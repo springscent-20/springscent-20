@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Remember that sometimes not getting what you want is a wonderful stroke of luck. - Dalai Lama
+    ## Think for yourselves and let others enjoy the privilege to do so too. - Voltaire
