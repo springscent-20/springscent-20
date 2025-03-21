@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Everything you are against weakens you. Everything you are for empowers you. - Wayne Dyer
+    ## Nature gave us one tongue and two ears so we could hear twice as much as we speak. - Epictetus
