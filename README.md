@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world. - Lucille Ball
+    ## He who knows others is wise. He who knows himself is enlightened. - Laozi
