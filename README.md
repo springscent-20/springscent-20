@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Love, friendship and respect do not unite people as much as a common hatred for something. - Anton Chekhov
+    ## Make the best use of what is in your power and take the rest as it happens. - Epictetus
