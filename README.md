@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## He who knows, does not speak. He who speaks, does not know. - Laozi
+    ## By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm. - Dalai Lama
