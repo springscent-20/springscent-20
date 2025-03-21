@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The best preparation for tomorrow is doing your best today. - H. Jackson Brown Jr.
+    ## The smallest act of kindness is worth more than the grandest intention. - Oscar Wilde
