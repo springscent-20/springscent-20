@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Everything that exists is in a manner the seed of that which will be. - Marcus Aurelius
+    ## If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair. - Samuel Johnson
