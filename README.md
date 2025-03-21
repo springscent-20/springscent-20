@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Computers are useless. They can only give you answers. - Pablo Picasso
+    ## Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world. - Lucille Ball
