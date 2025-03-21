@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion. - Elon Musk
+    ## You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions. - Naguib Mahfouz
