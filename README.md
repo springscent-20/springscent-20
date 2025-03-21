@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## When you reach the end of your rope, tie a knot in it and hang on. - Franklin D. Roosevelt
+    ## Without courage, wisdom bears no fruit. - Baltasar Gracián
