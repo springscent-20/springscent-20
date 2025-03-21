@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Think for yourselves and let others enjoy the privilege to do so too. - Voltaire
+    ## We choose our joys and sorrows long before we experience them. - Kahlil Gibran
