@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has. - Margaret Mead
+    ## There is no failure except in no longer trying. - Elbert Hubbard
