@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It is not in the stars to hold our destiny but in ourselves. - William Shakespeare
+    ## Life is a succession of lessons, which must be lived to be understood. - Ralph Waldo Emerson
