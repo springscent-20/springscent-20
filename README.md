@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Excellence is to do a common thing in an uncommon way. - Booker T. Washington
+    ## Fear grows in darkness; if you think there's a bogeyman around, turn on the light. - Dorothy Thompson
