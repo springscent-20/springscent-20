@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It's easier to resist at the beginning than at the end. - Leonardo da Vinci
+    ## I want my friend to miss me as long as I miss him. - Augustine of Hippo
