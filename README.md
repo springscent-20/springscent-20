@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The smallest act of kindness is worth more than the grandest intention. - Oscar Wilde
+    ## Whatever happens, take responsibility. - Tony Robbins
