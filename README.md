@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## We choose our joys and sorrows long before we experience them. - Kahlil Gibran
+    ## Accept challenges, so that you may feel the exhilaration of victory. - George S. Patton
