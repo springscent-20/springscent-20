@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions. - Naguib Mahfouz
+    ## Eternal nothingness is fine if you happen to be dressed for it. - Woody Allen
