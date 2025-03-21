@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The superior man is modest in his speech but exceeds in his actions. - Confucius
+    ## To be wronged is nothing unless you continue to remember it. - Confucius
