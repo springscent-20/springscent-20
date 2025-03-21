@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## He who knows others is wise. He who knows himself is enlightened. - Laozi
+    ## It takes courage to grow up and become who you really are. - E. E. Cummings
