@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The most formidable weapon against errors of every kind is reason. - Thomas Paine
+    ## Love, friendship and respect do not unite people as much as a common hatred for something. - Anton Chekhov
