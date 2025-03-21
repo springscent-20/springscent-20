@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## When fate hands us a lemon, let's try to make lemonade. - Dale Carnegie
+    ## The fox has many tricks. The hedgehog has but one. But that is the best of all. - Erasmus
