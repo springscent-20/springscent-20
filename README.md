@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Luck is what happens when preparation meets opportunity. - Seneca the Younger
+    ## Friendship increases in visiting friends, but in visiting them seldom. - Francis Bacon
