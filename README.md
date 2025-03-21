@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## What happens is not as important as how you react to what happens. - Ellen Glasgow
+    ## I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better. - Plutarch
