@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The cautious seldom err. - Confucius
+    ## It is not in the stars to hold our destiny but in ourselves. - William Shakespeare
