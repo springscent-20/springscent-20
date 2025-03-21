@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Good timber does not grow with ease; the stronger the wind, the stronger the trees. - J. Willard Marriott
+    ## When you reach the end of your rope, tie a knot in it and hang on. - Franklin D. Roosevelt
