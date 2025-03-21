@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Eternal nothingness is fine if you happen to be dressed for it. - Woody Allen
+    ## The cautious seldom err. - Confucius
