@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The fox has many tricks. The hedgehog has but one. But that is the best of all. - Erasmus
+    ## Happiness is not something ready-made. It comes from your own actions. - Dalai Lama
