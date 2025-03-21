@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There is a wisdom of the head, and a wisdom of the heart. - Charles Dickens
+    ## There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking. - Alfred Korzybski
