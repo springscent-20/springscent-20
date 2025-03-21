@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain. - Plato
+    ## The biggest adventure you can ever take is to live the life of your dreams. - Oprah Winfrey
