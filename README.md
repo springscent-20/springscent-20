@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I want my friend to miss me as long as I miss him. - Augustine of Hippo
+    ## It is the supreme art of the teacher to awaken joy in creative expression and knowledge. - Albert Einstein
