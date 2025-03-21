@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Fame usually comes to those who are thinking about something else. - Oliver Wendell Holmes Jr.
+    ## The best preparation for tomorrow is doing your best today. - H. Jackson Brown Jr.
