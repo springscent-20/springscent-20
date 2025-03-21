@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Anything you really want, you can attain, if you really go after it. - Wayne Dyer
+    ## Not all those who wander are lost. - J. R. R. Tolkien
