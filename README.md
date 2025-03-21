@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking. - Alfred Korzybski
+    ## Computers are useless. They can only give you answers. - Pablo Picasso
