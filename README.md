@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## To be great is to be misunderstood. - Ralph Waldo Emerson
+    ## Anything you really want, you can attain, if you really go after it. - Wayne Dyer
