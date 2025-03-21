@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better. - Plutarch
+    ## Be like the flower, turn your face to the sun. - Kahlil Gibran
