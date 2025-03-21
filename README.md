@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Know how to listen, and you will profit even from those who talk badly. - Plutarch
+    ## Opportunity is missed by most because it is dressed in overalls and looks like work. - Thomas Edison
