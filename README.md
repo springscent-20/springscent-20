@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It takes courage to grow up and become who you really are. - E. E. Cummings
+    ## Failure doesn't mean you are a failure it just means you haven't succeeded yet. - Robert Schuller
