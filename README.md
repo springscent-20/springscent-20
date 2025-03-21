@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Without courage, wisdom bears no fruit. - Baltasar Gracián
+    ## I don't believe in failure. It's not failure if you enjoyed the process. - Oprah Winfrey
