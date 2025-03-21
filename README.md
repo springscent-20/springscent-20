@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Make the best use of what is in your power and take the rest as it happens. - Epictetus
+    ## Only do what your heart tells you. - Princess Diana
