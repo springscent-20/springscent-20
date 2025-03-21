@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Life is a succession of lessons, which must be lived to be understood. - Ralph Waldo Emerson
+    ## It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not. - Mignon McLaughlin
