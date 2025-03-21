@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Nature gave us one tongue and two ears so we could hear twice as much as we speak. - Epictetus
+    ## He who controls others may be powerful, but he who has mastered himself is mightier still. - Laozi
