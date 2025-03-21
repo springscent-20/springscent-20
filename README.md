@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Difficulties increase the nearer we get to the goal. - Johann Wolfgang von Goethe
+    ## A failure is a man who has blundered but is not capable of cashing in on the experience. - Elbert Hubbard
