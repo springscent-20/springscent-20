@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair. - Samuel Johnson
+    ## Fame usually comes to those who are thinking about something else. - Oliver Wendell Holmes Jr.
