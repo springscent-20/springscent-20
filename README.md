@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The biggest adventure you can ever take is to live the life of your dreams. - Oprah Winfrey
+    ## Remember that the most valuable antiques are dear old friends. - H. Jackson Brown Jr.
