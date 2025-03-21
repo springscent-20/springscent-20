@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not. - Mignon McLaughlin
+    ## Luck is what happens when preparation meets opportunity. - Seneca the Younger
