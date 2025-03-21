@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Remember that the most valuable antiques are dear old friends. - H. Jackson Brown Jr.
+    ## The winds and waves are always on the side of the ablest navigators. - Edward Gibbon
