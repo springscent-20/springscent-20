@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There is no failure except in no longer trying. - Elbert Hubbard
+    ## Wishing to be friends is quick work, but friendship is a slow ripening fruit. - Aristotle
