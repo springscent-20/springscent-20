@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind. - Leonardo da Vinci
+    ## Remember that sometimes not getting what you want is a wonderful stroke of luck. - Dalai Lama
