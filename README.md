@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Be like the flower, turn your face to the sun. - Kahlil Gibran
+    ## There is a wisdom of the head, and a wisdom of the heart. - Charles Dickens
