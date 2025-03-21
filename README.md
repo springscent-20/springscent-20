@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Failure doesn't mean you are a failure it just means you haven't succeeded yet. - Robert Schuller
+    ## Try not to become a man of success, but rather try to become a man of value. - Albert Einstein
