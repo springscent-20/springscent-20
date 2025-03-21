@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## To be wronged is nothing unless you continue to remember it. - Confucius
+    ## Joy is what happens to us when we allow ourselves to recognize how good things really are. - Marianne Williamson
