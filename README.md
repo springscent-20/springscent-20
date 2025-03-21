@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I don't believe in failure. It's not failure if you enjoyed the process. - Oprah Winfrey
+    ## What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part. - Christopher Reeve
