@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There is not one big cosmic meaning for all, there is only the meaning we each give to our life. - Anaïs Nin
+    ## Excellence is to do a common thing in an uncommon way. - Booker T. Washington
