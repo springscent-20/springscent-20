@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort. - Epictetus
+    ## Good timber does not grow with ease; the stronger the wind, the stronger the trees. - J. Willard Marriott
