@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## He who controls others may be powerful, but he who has mastered himself is mightier still. - Laozi
+    ## There is not one big cosmic meaning for all, there is only the meaning we each give to our life. - Anaïs Nin
