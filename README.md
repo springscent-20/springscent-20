@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Only do what your heart tells you. - Princess Diana
+    ## He who knows, does not speak. He who speaks, does not know. - Laozi
