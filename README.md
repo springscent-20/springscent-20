@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Wishing to be friends is quick work, but friendship is a slow ripening fruit. - Aristotle
+    ## To improve is to change; to be perfect is to change often. - Winston Churchill
