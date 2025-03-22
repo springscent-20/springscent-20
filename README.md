@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Yesterday's home runs don't win today's games. - Babe Ruth
+    ## By failing to prepare, you are preparing to fail. - Benjamin Franklin
