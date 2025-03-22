@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live. - Mortimer J. Adler
+    ## One's friends are that part of the human race with which one can be human. - George Santayana
