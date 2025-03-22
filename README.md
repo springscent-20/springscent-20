@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. - Epictetus
+    ## It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err. - Mahatma Gandhi
