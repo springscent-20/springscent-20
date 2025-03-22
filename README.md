@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Be like the flower, turn your face to the sun. - Kahlil Gibran
+    ## Love, friendship and respect do not unite people as much as a common hatred for something. - Anton Chekhov
