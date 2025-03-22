@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Nothing is at last sacred but the integrity of your own mind. - Ralph Waldo Emerson
+    ## Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. - Albert Schweitzer
