@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Fine words and an insinuating appearance are seldom associated with true virtue - Confucius
+    ## Inspiration exists, but it has to find us working. - Pablo Picasso
