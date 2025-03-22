@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Computers are like bikinis. They save people a lot of guesswork. - Sam Ewing
+    ## Happiness is found in doing, not merely possessing. - Napoleon Hill
