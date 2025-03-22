@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion. - Elon Musk
+    ## See the positive side, the potential, and make an effort. - Dalai Lama
