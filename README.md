@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief. - Johann Wolfgang von Goethe
+    ## Friends... they cherish one another's hopes. They are kind to one another's dreams. - Henry David Thoreau
