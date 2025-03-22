@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You can only grow if you're willing to feel awkward and uncomfortable when you try something new. - Brian Tracy
+    ## Impossibilities are merely things which we have not yet learned. - Charles W. Chesnutt
