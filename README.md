@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A long habit of not thinking a thing wrong gives it a superficial appearance of being right. - Thomas Paine
+    ## To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing. - The Buddha
