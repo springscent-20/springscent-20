@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands. - Anne Frank
+    ## What you do not want done to yourself, do not do to others. - Confucius
