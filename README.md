@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A goal is a dream with a deadline. - Napoleon Hill
+    ## Character develops itself in the stream of life. - Johann Wolfgang von Goethe
