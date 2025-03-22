@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Habit, if not resisted, soon becomes necessity. - Augustine of Hippo
+    ## If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others. - Anne Lindbergh
