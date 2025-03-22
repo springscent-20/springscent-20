@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If you do what you've always done, you'll get what you've always gotten. - Tony Robbins
+    ## Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? - George Eliot
