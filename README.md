@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Not what we have but what we enjoy constitutes our abundance. - Jean Antoine Petit-Senn
+    ## Absence makes the heart grow fonder. - Thomas Haynes Bayly
