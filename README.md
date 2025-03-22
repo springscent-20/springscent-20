@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you. - Nathaniel Hawthorne
+    ## It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. - Epictetus
