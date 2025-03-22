@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Love, friendship and respect do not unite people as much as a common hatred for something. - Anton Chekhov
+    ## A goal is a dream with a deadline. - Napoleon Hill
