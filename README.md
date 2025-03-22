@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The universe is transformation; our life is what our thoughts make it. - Marcus Aurelius
+    ## Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish. - Ovid
