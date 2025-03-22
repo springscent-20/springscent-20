@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Sooner or later, those who win are those who think they can. - Richard Bach
+    ## The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live. - Mortimer J. Adler
