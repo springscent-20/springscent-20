@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Whatever you do in life, surround yourself with smart people who'll argue with you. - John Wooden
+    ## Those who are free of resentful thoughts surely find peace. - The Buddha
