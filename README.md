@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Without hard work, nothing grows but weeds. - Gordon Hinckley
+    ## An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind. - Albert Schweitzer
