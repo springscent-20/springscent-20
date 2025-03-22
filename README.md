@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Adversity causes some men to break, others to break records. - William Arthur Ward
+    ## Think big thoughts but relish small pleasures. - H. Jackson Brown Jr.
