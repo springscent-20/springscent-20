@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Impossibilities are merely things which we have not yet learned. - Charles W. Chesnutt
+    ## Difficulties increase the nearer we get to the goal. - Johann Wolfgang von Goethe
