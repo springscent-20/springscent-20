@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The hours of folly are measured by the clock; but of wisdom, no clock can measure. - William Blake
+    ## Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. - George Washington
