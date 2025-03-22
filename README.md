@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There are three faithful friends - an old wife, an old dog, and ready money. - Benjamin Franklin
+    ## What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be. - Sai Baba
