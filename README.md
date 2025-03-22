@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I hear and I forget. I see and I remember. I do and I understand. - Confucius
+    ## When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it. - A. Powell Davies
