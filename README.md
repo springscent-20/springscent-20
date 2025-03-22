@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## To have much learning and skill, to be well-trained in discipline, and good in speech — this is the highest blessing. - The Buddha
+    ## The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. - Walter Benjamin
