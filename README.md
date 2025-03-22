@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## How far that little candle throws its beams! So shines a good deed in a naughty world. - William Shakespeare
+    ## Whatever you do in life, surround yourself with smart people who'll argue with you. - John Wooden
