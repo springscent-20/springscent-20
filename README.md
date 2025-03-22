@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You teach best what you most need to learn. - Richard Bach
+    ## Bad times have a scientific value. These are occasions a good learner would not miss. - Ralph Waldo Emerson
