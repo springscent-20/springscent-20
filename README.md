@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. - Samuel Beckett
+    ## An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage. - Jack Welch
