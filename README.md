@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Inspiration exists, but it has to find us working. - Pablo Picasso
+    ## Always keep an open mind and a compassionate heart. - Phil Jackson
