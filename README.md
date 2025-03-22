@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err. - Mahatma Gandhi
+    ## Miracles come in moments. Be ready and willing. - Wayne Dyer
