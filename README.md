@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Those who are free of resentful thoughts surely find peace. - The Buddha
+    ## Good, better, best. Never let it rest. ‘Til your good is better and your better is best. - Jerome
