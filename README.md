@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You give before you get. - Napoleon Hill
+    ## Dreams come true. Without that possibility, nature would not incite us to have them. - John Updike
