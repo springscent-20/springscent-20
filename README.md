@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown. - Woody Allen
+    ## The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it. - Michelangelo
