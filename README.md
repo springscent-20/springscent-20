@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Kind words can be short and easy to speak, but their echoes are truly endless. - Mother Teresa
+    ## If you think you can, you can. And if you think you can't, you're right. - Henry Ford
