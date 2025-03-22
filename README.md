@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition. - Plotinus
+    ## You can stand tall without standing on someone. You can be a victor without having victims. - Harriet Woods
