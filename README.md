@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You teach best what you most need to learn. - Richard Bach
+    ## Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. - Samuel Beckett
