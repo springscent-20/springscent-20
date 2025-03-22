@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions. - Joseph Addison
+    ## Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest. - Sri Chinmoy
