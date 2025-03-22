@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Belief consists in accepting the affirmations of the soul; Unbelief, in denying them. - Ralph Waldo Emerson
+    ## Never make friends with people who are above or below you in status. Such friendships will never give you any happiness. - Chanakya
