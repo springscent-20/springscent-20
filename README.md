@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Whatever happens, take responsibility. - Tony Robbins
+    ## It always seems impossible until it's done. - Nelson Mandela
