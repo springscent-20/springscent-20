@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity. - John F. Kennedy
+    ## He who knows, does not speak. He who speaks, does not know. - Laozi
