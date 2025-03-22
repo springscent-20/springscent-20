@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? - George Eliot
+    ## We should not give up and we should not allow the problem to defeat us. - A. P. J. Abdul Kalam
