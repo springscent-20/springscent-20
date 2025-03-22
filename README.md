@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Great minds discuss ideas; average minds discuss events; small minds discuss people. - Eleanor Roosevelt
+    ## To listen well is as powerful a means of communication and influence as to talk well. - John Marshall
