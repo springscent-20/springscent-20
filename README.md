@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## All achievements, all earned riches, have their beginning in an idea. - Napoleon Hill
+    ## I hear and I forget. I see and I remember. I do and I understand. - Confucius
