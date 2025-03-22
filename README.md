@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Obstacles are those things you see when you take your eyes off the goal. - Hannah More
+    ## Read as you taste fruit or savor wine, or enjoy friendship, love or life. - George Herbert
