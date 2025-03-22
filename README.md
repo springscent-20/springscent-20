@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody. - Henry Wadsworth Longfellow
+    ## True friendship can afford true knowledge. It does not depend on darkness and ignorance. - Henry David Thoreau
