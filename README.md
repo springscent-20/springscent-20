@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Arriving at one point is the starting point to another. - John Dewey
+    ## Adversity causes some men to break, others to break records. - William Arthur Ward
