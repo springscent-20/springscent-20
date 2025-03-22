@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Learning never exhausts the mind. - Leonardo da Vinci
+    ## Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him. - Johann Wolfgang von Goethe
