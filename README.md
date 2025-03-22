@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too. - Marcus Aurelius
+    ## Yeah, we all shine on, like the moon, and the stars, and the sun. - John Lennon
