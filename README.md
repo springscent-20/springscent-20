@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
+    ## Either you run the day or the day runs you. - Jim Rohn
