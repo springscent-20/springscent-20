@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity. - Robert Louis Stevenson
+    ## Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit. - Elbert Hubbard
