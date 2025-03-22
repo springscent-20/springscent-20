@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## See the positive side, the potential, and make an effort. - Dalai Lama
+    ## There are three faithful friends - an old wife, an old dog, and ready money. - Benjamin Franklin
