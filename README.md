@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Sometimes it is better to lose and do the right thing than to win and do the wrong thing. - Tony Blair
+    ## Experience keeps a dear school, but fools will learn in no other. - Benjamin Franklin
