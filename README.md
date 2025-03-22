@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage. - Jack Welch
+    ## Learning never exhausts the mind. - Leonardo da Vinci
