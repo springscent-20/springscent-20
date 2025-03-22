@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Dreams come true. Without that possibility, nature would not incite us to have them. - John Updike
+    ## Belief consists in accepting the affirmations of the soul; Unbelief, in denying them. - Ralph Waldo Emerson
