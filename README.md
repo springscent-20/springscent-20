@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others. - Anne Lindbergh
+    ## Treat people as if they were what they ought to be, and you help them to become what they are capable of being. - Johann Wolfgang von Goethe
