@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## With the realization of one's own potential and self-confidence in one's ability, one can build a better world. - Dalai Lama
+    ## You must welcome change as the rule but not as your ruler. - Denis Waitley
