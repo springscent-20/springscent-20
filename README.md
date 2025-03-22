@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act. - G. K. Chesterton
+    ## The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails. - William Arthur Ward
