@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Yeah, we all shine on, like the moon, and the stars, and the sun. - John Lennon
+    ## The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is. - Winston Churchill
