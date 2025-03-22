@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Be kind whenever possible. It is always possible. - Dalai Lama
+    ## Not what we have but what we enjoy constitutes our abundance. - Jean Antoine Petit-Senn
