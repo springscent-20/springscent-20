@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The exercise of an extraordinary gift is the supremist pleasure in life. - Mark Twain
+    ## Strong beliefs win strong men, and then make them stronger. - Richard Bach
