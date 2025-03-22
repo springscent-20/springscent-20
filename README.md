@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it. - A. Powell Davies
+    ## If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear? - Confucius
