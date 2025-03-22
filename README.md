@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Strong beliefs win strong men, and then make them stronger. - Richard Bach
+    ## Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity. - Robert Louis Stevenson
