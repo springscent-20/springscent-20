@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You can stand tall without standing on someone. You can be a victor without having victims. - Harriet Woods
+    ## Irony is the gaiety of reflection and the joy of wisdom. - Anatole France
