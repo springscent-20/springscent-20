@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails. - William Arthur Ward
+    ## A goal is a dream with a deadline. - Napoleon Hill
