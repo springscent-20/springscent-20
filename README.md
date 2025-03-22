@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There is nothing impossible to him who will try. - Alexander the Great
+    ## Be like the flower, turn your face to the sun. - Kahlil Gibran
