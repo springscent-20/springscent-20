@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world. - Dalai Lama
+    ## Fear grows in darkness; if you think there's a bogeyman around, turn on the light. - Dorothy Thompson
