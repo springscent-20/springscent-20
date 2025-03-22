@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish. - Ovid
+    ## I never think of the future. It comes soon enough. - Albert Einstein
