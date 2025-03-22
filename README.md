@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## One's friends are that part of the human race with which one can be human. - George Santayana
+    ## Technology is a word that describes something that doesn't work yet. - Douglas Adams
