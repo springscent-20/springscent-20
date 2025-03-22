@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Better than a thousand hollow words, is one word that brings peace. - The Buddha
+    ## Things that were hard to bear are sweet to remember. - Seneca the Younger
