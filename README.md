@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Ignorance never settles a question. - Benjamin Disraeli
+    ## You teach best what you most need to learn. - Richard Bach
