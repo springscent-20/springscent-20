@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## All action results from thought, so it is thoughts that matter. - Sai Baba
+    ## Life without love is like a tree without blossoms or fruit. - Kahlil Gibran
