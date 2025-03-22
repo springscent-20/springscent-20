@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Treat people as if they were what they ought to be, and you help them to become what they are capable of being. - Johann Wolfgang von Goethe
+    ## Whatever happens, take responsibility. - Tony Robbins
