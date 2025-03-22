@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## He that respects himself is safe from others; he wears a coat of mail that none can pierce. - Henry Wadsworth Longfellow
+    ## Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too. - Marcus Aurelius
