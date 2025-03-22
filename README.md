@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If we look at the world with a love of life, the world will reveal its beauty to us. - Daisaku Ikeda
+    ## Without hard work, nothing grows but weeds. - Gordon Hinckley
