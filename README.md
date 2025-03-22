@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind. - Kahlil Gibran
+    ## The path to success is to take massive, determined action. - Tony Robbins
