@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Read as you taste fruit or savor wine, or enjoy friendship, love or life. - George Herbert
+    ## Great minds discuss ideas; average minds discuss events; small minds discuss people. - Eleanor Roosevelt
