@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The greatest obstacle to connecting with our joy is resentment. - Pema Chödrön
+    ## He that respects himself is safe from others; he wears a coat of mail that none can pierce. - Henry Wadsworth Longfellow
