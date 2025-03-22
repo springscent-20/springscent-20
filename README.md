@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It is easier to live through someone else than to become complete yourself. - Betty Friedan
+    ## To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do. - Kahlil Gibran
