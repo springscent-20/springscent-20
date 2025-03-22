@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Always keep an open mind and a compassionate heart. - Phil Jackson
+    ## You teach best what you most need to learn. - Richard Bach
