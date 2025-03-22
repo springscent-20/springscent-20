@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## History will be kind to me for I intend to write it. - Winston Churchill
+    ## You always succeed in producing a result. - Tony Robbins
