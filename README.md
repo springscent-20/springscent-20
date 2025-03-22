@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Miracles come in moments. Be ready and willing. - Wayne Dyer
+    ## Think big thoughts but relish small pleasures. - H. Jackson Brown Jr.
