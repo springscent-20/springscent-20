@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Think big thoughts but relish small pleasures. - H. Jackson Brown Jr.
+    ## The universe is transformation; our life is what our thoughts make it. - Marcus Aurelius
