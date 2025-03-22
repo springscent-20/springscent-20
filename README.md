@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A lie gets halfway around the world before the truth has a chance to get its pants on. - Winston Churchill
+    ## We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us. - Marcel Proust
