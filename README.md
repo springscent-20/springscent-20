@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Our doubts are traitors and make us lose the good we often might win, by fearing to attempt. - Jane Addams
+    ## Sometimes it is better to lose and do the right thing than to win and do the wrong thing. - Tony Blair
