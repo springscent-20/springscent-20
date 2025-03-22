@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## We should not give up and we should not allow the problem to defeat us. - A. P. J. Abdul Kalam
+    ## I do not know the American gentleman, god forgive me for putting two such words together. - Charles Dickens
