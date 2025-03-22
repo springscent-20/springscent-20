@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The noblest worship is to make yourself as good and as just as you can. - Isocrates
+    ## To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing. - The Buddha
