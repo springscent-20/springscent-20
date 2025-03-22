@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Bad times have a scientific value. These are occasions a good learner would not miss. - Ralph Waldo Emerson
+    ## It is easier to live through someone else than to become complete yourself. - Betty Friedan
