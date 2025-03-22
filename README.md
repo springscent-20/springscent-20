@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The least movement is of importance to all nature. The entire ocean is affected by a pebble. - Blaise Pascal
+    ## The awareness of our own strength makes us modest. - Paul Cézanne
