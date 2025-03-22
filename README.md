@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself. - Henry Miller
+    ## A lie gets halfway around the world before the truth has a chance to get its pants on. - Winston Churchill
