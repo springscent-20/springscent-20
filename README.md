@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. - George Washington
+    ## Quality is never an accident; it is always the result of intelligent effort. - John Ruskin
