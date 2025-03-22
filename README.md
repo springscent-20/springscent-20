@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You must welcome change as the rule but not as your ruler. - Denis Waitley
+    ## The only person who never makes mistakes is the person who never does anything. - Denis Waitley
