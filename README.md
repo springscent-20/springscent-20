@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest. - Sri Chinmoy
+    ## The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself. - Henry Miller
