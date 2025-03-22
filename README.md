@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## By failing to prepare, you are preparing to fail. - Benjamin Franklin
+    ## If we look at the world with a love of life, the world will reveal its beauty to us. - Daisaku Ikeda
