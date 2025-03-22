@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family. - Salman Rushdie
+    ## Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands. - Anne Frank
