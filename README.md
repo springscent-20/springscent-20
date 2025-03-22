@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The path to success is to take massive, determined action. - Tony Robbins
+    ## The hours of folly are measured by the clock; but of wisdom, no clock can measure. - William Blake
