@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Good, better, best. Never let it rest. ‘Til your good is better and your better is best. - Jerome
+    ## Time you enjoyed wasting was not wasted. - John Lennon
