@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it. - Michelangelo
+    ## Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one. - Diogenes
