@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Irony is the gaiety of reflection and the joy of wisdom. - Anatole France
+    ## Nothing is at last sacred but the integrity of your own mind. - Ralph Waldo Emerson
