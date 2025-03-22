@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Life is a succession of moments. To live each one is to succeed. - Corita Kent
+    ## Love is the attempt to form a friendship inspired by beauty. - Cicero
