@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Life without love is like a tree without blossoms or fruit. - Kahlil Gibran
+    ## You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one. - John Lennon
