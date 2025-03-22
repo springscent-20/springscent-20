@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Experience is simply the name we give our mistakes. - Oscar Wilde
+    ## No act of kindness, no matter how small, is ever wasted. - Aesop
