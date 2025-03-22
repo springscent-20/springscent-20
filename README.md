@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## No act of kindness, no matter how small, is ever wasted. - Aesop
+    ## The least movement is of importance to all nature. The entire ocean is affected by a pebble. - Blaise Pascal
