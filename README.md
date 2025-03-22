@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Experience keeps a dear school, but fools will learn in no other. - Benjamin Franklin
+    ## The noblest worship is to make yourself as good and as just as you can. - Isocrates
