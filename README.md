@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Technology is a word that describes something that doesn't work yet. - Douglas Adams
+    ## Fine words and an insinuating appearance are seldom associated with true virtue - Confucius
