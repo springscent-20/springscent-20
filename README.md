@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Myths which are believed in tend to become true. - George Orwell
+    ## To climb steep hills requires a slow pace at first. - William Shakespeare
