@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A goal is a dream with a deadline. - Napoleon Hill
+    ## Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody. - Henry Wadsworth Longfellow
