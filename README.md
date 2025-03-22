@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## He who knows, does not speak. He who speaks, does not know. - Laozi
+    ## The exercise of an extraordinary gift is the supremist pleasure in life. - Mark Twain
