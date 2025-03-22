@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Knowing others is wisdom, knowing yourself is Enlightenment. - Laozi
+    ## Obstacles are those things you see when you take your eyes off the goal. - Hannah More
