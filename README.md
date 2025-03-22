@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do. - Kahlil Gibran
+    ## True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions. - Joseph Addison
