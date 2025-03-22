@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. - Walter Benjamin
+    ## Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. - George Washington
