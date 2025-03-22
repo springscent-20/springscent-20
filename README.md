@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Sometimes it is better to lose and do the right thing than to win and do the wrong thing. - Tony Blair
+    ## The person who lives life fully, glowing with life's energy, is the person who lives a successful life. - Daisaku Ikeda
