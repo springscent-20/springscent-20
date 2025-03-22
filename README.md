@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The person who lives life fully, glowing with life's energy, is the person who lives a successful life. - Daisaku Ikeda
+    ## Arriving at one point is the starting point to another. - John Dewey
