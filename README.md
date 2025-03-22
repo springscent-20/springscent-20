@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Quality is never an accident; it is always the result of intelligent effort. - John Ruskin
+    ## You give before you get. - Napoleon Hill
