@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## I do not know the American gentleman, god forgive me for putting two such words together. - Charles Dickens
+    ## The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world. - Dalai Lama
