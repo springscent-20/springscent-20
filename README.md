@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## It always seems impossible until it's done. - Nelson Mandela
+    ## Knowing others is wisdom, knowing yourself is Enlightenment. - Laozi
