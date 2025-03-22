@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be. - Sai Baba
+    ## Myths which are believed in tend to become true. - George Orwell
