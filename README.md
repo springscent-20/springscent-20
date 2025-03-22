@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## To listen well is as powerful a means of communication and influence as to talk well. - John Marshall
+    ## Whenever something negative happens to you, there is a deep lesson concealed within it. - Eckhart Tolle
