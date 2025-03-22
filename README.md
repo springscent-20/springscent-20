@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Time you enjoyed wasting was not wasted. - John Lennon
+    ## Experience is simply the name we give our mistakes. - Oscar Wilde
