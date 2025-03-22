@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If you think you can, you can. And if you think you can't, you're right. - Henry Ford
+    ## Sometimes it is better to lose and do the right thing than to win and do the wrong thing. - Tony Blair
