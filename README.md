@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## True friendship can afford true knowledge. It does not depend on darkness and ignorance. - Henry David Thoreau
+    ## I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence. - Frederick Douglass
