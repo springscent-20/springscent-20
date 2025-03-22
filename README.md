@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Whatever happens, take responsibility. - Tony Robbins
+    ## All achievements, all earned riches, have their beginning in an idea. - Napoleon Hill
