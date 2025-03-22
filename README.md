@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Happiness is found in doing, not merely possessing. - Napoleon Hill
+    ## With the realization of one's own potential and self-confidence in one's ability, one can build a better world. - Dalai Lama
