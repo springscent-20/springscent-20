@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear? - Confucius
+    ## If you do what you've always done, you'll get what you've always gotten. - Tony Robbins
