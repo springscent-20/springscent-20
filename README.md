@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## What you do not want done to yourself, do not do to others. - Confucius
+    ## When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity. - John F. Kennedy
