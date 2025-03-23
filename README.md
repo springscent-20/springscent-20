@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A disciplined mind brings happiness. - The Buddha
+    ## Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements. - Napoleon Hill
