@@ -2,7 +2,7 @@ name: Update the Quote
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 15 * * *"
 
 jobs:
   update-the-quote:
@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit results
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "springscent_20@outlook.com"
+          git config --local user.name "springscent_20"
           git add .
           git commit -m "Update README.md"
           git push
