@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements. - Napoleon Hill
+    ## Always be a first-rate version of yourself, instead of a second-rate version of somebody else. - Judy Garland
