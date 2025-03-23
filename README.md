@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You are never given a wish without also being given the power to make it come true. You may have to work for it, however. - Richard Bach
+    ## The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth. - Peter Abelard
