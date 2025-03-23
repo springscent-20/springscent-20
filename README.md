@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad. - Brian O'Driscoll
+    ## The heart has eyes which the brain knows nothing of. - Charles Henry Parkhurst
