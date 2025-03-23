@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Happiness can exist only in acceptance. - George Orwell
+    ## Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime. - Laozi
