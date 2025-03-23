@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## We can do no great things, only small things with great love. - Mother Teresa
+    ## Anticipate the difficult by managing the easy. - Laozi
