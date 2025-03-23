@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Always be a first-rate version of yourself, instead of a second-rate version of somebody else. - Judy Garland
+    ## Don't talk about what you have done or what you are going to do. - Thomas Jefferson
