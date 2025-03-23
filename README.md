@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Life's most persistent and urgent question is, 'What are you doing for others?' - Martin Luther King Jr.
+    ## You are never given a wish without also being given the power to make it come true. You may have to work for it, however. - Richard Bach
