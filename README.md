@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime. - Laozi
+    ## Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter. - Charles Lindbergh
