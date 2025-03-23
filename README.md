@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The heart has eyes which the brain knows nothing of. - Charles Henry Parkhurst
+    ## A disciplined mind brings happiness. - The Buddha
