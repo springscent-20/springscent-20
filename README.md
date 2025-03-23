@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Anticipate the difficult by managing the easy. - Laozi
+    ## Everyone has been made for some particular work, and the desire for that work has been put in every heart. - Rumi
