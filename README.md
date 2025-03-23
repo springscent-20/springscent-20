@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Love is the attempt to form a friendship inspired by beauty. - Cicero
+    ## Life is like a sewer. What you get out of it depends on what you put into it. - Tom Lehrer
