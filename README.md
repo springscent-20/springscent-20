@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Never deny a diagnosis but do deny the negative verdict that may go with it. - Norman Cousins
+    ## We can do no great things, only small things with great love. - Mother Teresa
