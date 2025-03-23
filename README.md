@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Everyone has been made for some particular work, and the desire for that work has been put in every heart. - Rumi
+    ## You just can't beat the person who never gives up. - Babe Ruth
