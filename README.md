@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth. - Peter Abelard
+    ## A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. - Laozi
