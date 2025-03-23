@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A rolling stone gathers no moss. - Publilius Syrus
+    ## Never deny a diagnosis but do deny the negative verdict that may go with it. - Norman Cousins
