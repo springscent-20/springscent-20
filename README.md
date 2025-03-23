@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Don't talk about what you have done or what you are going to do. - Thomas Jefferson
+    ## Happiness can exist only in acceptance. - George Orwell
