@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter. - Charles Lindbergh
+    ## Life's most persistent and urgent question is, 'What are you doing for others?' - Martin Luther King Jr.
