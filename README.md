@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## You just can't beat the person who never gives up. - Babe Ruth
+    ## Not all those who wander are lost. - J. R. R. Tolkien
