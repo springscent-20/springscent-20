@@ -28,8 +28,8 @@ jobs:
 
       - name: Commit results
         run: |
-          git config --local user.email "springscent_20@outlook.com"
-          git config --local user.name "springscent_20"
+          git config --local user.email "springscent19@outlook.com"
+          git config --local user.name "springscent19"
           git add .
           git commit -m "Update README.md"
           git push
