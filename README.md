@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Not all those who wander are lost. - J. R. R. Tolkien
+    ## Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more - Tony Robbins
