@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more - Tony Robbins
+    ## Love is a serious mental disease. - Plato
