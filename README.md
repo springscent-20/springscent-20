@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Just because something doesn't do what you planned it to do doesn't mean it's useless. - Thomas Edison
+    ## The price of greatness is responsibility. - Winston Churchill
