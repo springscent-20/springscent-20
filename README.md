@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The price of greatness is responsibility. - Winston Churchill
+    ## Along with success comes a reputation for wisdom. - Euripides
