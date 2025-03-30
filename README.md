@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Along with success comes a reputation for wisdom. - Euripides
+    ## Being entirely honest with oneself is a good exercise. - Sigmund Freud
