@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Being entirely honest with oneself is a good exercise. - Sigmund Freud
+    ## We can do no great things, only small things with great love. - Mother Teresa
