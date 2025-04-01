@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## We can do no great things, only small things with great love. - Mother Teresa
+    ## There is no expedient to which a man will not go to avoid the labor of thinking. - Thomas Edison
