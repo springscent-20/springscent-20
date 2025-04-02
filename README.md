@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## There is no expedient to which a man will not go to avoid the labor of thinking. - Thomas Edison
+    ## Success is where preparation and opportunity meet. - Bobby Unser
