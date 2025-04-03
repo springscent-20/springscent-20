@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Success is where preparation and opportunity meet. - Bobby Unser
+    ## Nature takes away any faculty that is not used. - William Inge
