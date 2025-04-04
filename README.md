@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Nature takes away any faculty that is not used. - William Inge
+    ## A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do. - Chuck Norris
