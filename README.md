@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The years teach much which the days never know. - Ralph Waldo Emerson
+    ## Failure will never overtake me if my determination to succeed is strong enough. - Og Mandino
