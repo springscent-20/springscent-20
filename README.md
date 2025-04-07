@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## All of our technology is completely unnecessary to a happy life. - Tom Hodgkinson
+    ## You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving. - Anatole France
