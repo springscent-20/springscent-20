@@ -2,7 +2,8 @@ name: Update the Quote
 
 on:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "* * * * *"
+  workflow_dispatch:
 
 jobs:
   update-the-quote:
