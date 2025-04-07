@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Failure will never overtake me if my determination to succeed is strong enough. - Og Mandino
+    ## All of our technology is completely unnecessary to a happy life. - Tom Hodgkinson
