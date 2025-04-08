@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Love is flower like; Friendship is like a sheltering tree. - Samuel Taylor Coleridge
+    ## Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts. - Alan Cohen
