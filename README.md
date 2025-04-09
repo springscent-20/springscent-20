@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts. - Alan Cohen
+    ## The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. - Walter Benjamin
