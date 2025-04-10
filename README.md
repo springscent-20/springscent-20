@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out. - Walter Benjamin
+    ## Knowing your own darkness is the best method for dealing with the darkness of other people. - Carl Jung
