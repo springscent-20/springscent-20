@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control. - Martin Luther King Jr.
+    ## Wisdom, compassion, and courage are the three universally recognized moral qualities of men. - Confucius
