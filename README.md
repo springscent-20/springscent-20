@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Wisdom, compassion, and courage are the three universally recognized moral qualities of men. - Confucius
+    ## Love is flower like; Friendship is like a sheltering tree. - Samuel Taylor Coleridge
