@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## The greatest obstacle to connecting with our joy is resentment. - Pema Chödrön
+    ## Light tomorrow with today! - Elizabeth Browning
