@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Love is flower like; Friendship is like a sheltering tree. - Samuel Taylor Coleridge
+    ## A failure is a man who has blundered but is not capable of cashing in on the experience. - Elbert Hubbard
