@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## We must not say every mistake is a foolish one. - Cicero
+    ## Trouble is only opportunity in work clothes. - Henry J. Kaiser
