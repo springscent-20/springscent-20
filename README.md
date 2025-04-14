@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## A failure is a man who has blundered but is not capable of cashing in on the experience. - Elbert Hubbard
+    ## We must not say every mistake is a foolish one. - Cicero
