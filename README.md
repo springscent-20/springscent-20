@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Light tomorrow with today! - Elizabeth Browning
+    ## Friendship is like money, easier made than kept. - Samuel Butler
