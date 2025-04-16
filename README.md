@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Friendship is like money, easier made than kept. - Samuel Butler
+    ## Friendship with oneself is all important because without it one cannot be friends with anybody else in the world. - Eleanor Roosevelt
