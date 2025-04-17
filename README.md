@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Friendship with oneself is all important because without it one cannot be friends with anybody else in the world. - Eleanor Roosevelt
+    ## Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy. - Wayne Dyer
