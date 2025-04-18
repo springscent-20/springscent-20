@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning. - Laozi
+    ## One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility. - Eleanor Roosevelt
