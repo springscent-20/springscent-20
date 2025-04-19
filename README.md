@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility. - Eleanor Roosevelt
+    ## Don't watch the clock; do what it does. Keep going. - Sam Levenson
