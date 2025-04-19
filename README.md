@@ -9,4 +9,4 @@ def get_random_quote():
 print(get_random_quote())
 ```
 
-    ## Don't watch the clock; do what it does. Keep going. - Sam Levenson
+    ## A disciplined mind brings happiness. - The Buddha
